@@ -1,4 +1,4 @@
-# python-google-image-downloader
+# Python Google Search Image Downloader
 
 ### Setup
 
@@ -20,3 +20,6 @@ If you run the scrip without changes it will download images of cats by running 
 
 Feel free to file issues on github, open pull requests with improvements, or reach out with suggestions to dusan.stanojevic.cs@gmail.com.
 
+### Disclamer
+
+All images in the ```cat``` directory of this repository were downloaded from the google search page as they were the top 10 results on 27/12/2019, they are just examples that the script works as expected and I claim no right for any of the images, I would highly encourage you not to use them without permission from their original authors.
